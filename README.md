@@ -99,6 +99,9 @@ This project analyzes Electric Vehicle (EV) sales data using Excel, SQL, and Pow
 - Evaluated market growth trends.
 - Compared sales performance across categories.
 
+## Dashboard Screenshot
+<img width="1430" height="804" alt="Screenshot 2026-06-21 221749" src="https://github.com/user-attachments/assets/068153cf-e5eb-4ac0-9b95-c64c7d1ba54b" />
+
 ## Author
 **Siddhant Katkar**
 
