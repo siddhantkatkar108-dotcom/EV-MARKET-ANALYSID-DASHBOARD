@@ -100,7 +100,18 @@ This project analyzes Electric Vehicle (EV) sales data using Excel, SQL, and Pow
 - Compared sales performance across categories.
 
 ## Dashboard Screenshot
-<img width="1430" height="804" alt="Screenshot 2026-06-21 221749" src="https://github.com/user-attachments/assets/068153cf-e5eb-4ac0-9b95-c64c7d1ba54b" />
+<img width="1446" height="813" alt="Screenshot 2026-06-21 221607" src="https://github.com/user-attachments/assets/15326f75-e318-49a0-92dd-4ca3915147f7" />
+
+<img width="1449" height="815" alt="Screenshot 2026-06-21 221635" src="https://github.com/user-attachments/assets/5310878f-18f7-4c96-bc57-f7447595d49e" />
+
+<img width="1432" height="805" alt="Screenshot 2026-06-21 221700" src="https://github.com/user-attachments/assets/d9a69867-0317-4854-bbf5-a3aaa6ab040e" />
+
+<img width="1429" height="805" alt="Screenshot 2026-06-21 221723" src="https://github.com/user-attachments/assets/72468b96-2cf1-4b38-8329-5bdf738375fd" />
+
+<img width="1430" height="804" alt="Screenshot 2026-06-21 221749" src="https://github.com/user-attachments/assets/8ce1e425-6010-437e-a84c-e1b9709288e4" />
+
+
+
 
 ## Author
 **Siddhant Katkar**
